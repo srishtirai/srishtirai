@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science and User Experience Design**
 
-- 💬 Ask me about **React, Spring, HTML, CSS**
+- 💬 Ask me about **React, Spring, JavaScript HTML, CSS**
 
 - 📫 How to reach me **srishtiraic@gmail.com**
 
