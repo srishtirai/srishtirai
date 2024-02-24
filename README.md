@@ -1,15 +1,9 @@
 👋 Hey! I'm **Srishti C Rai**, a **Full Stack Developer** on track to earn my Master's in Software Engineering Systems from Northeastern University by May 2025. My tech journey flourished in Bangalore, India, at LG Electronics, focusing primarily on front-end development to enhance and innovate software solutions. Through these experiences, I've cultivated a keen expertise in delivering comprehensive, scalable software solutions. Armed with a blend of real-world engineering triumphs and advanced academic insights, I'm passionately navigating the tech sphere, committed to innovating at every turn.
+<br><br>
 
-<br>
-🔍 Technical Expertise:<br><br>
+🔍 Technical Expertise:
 
-**Languages:** Proficient in Java, JavaScript, TypeScript, Python, Dart, and C#.
-
-**Frontend Development:** Skilled in HTML5, CSS3, SASS, Bootstrap, ReactJS, Redux, AJAX, and more, with a knack for creating responsive designs using Figma.
-
-**Backend Development:** Experienced in developing robust backend solutions with technologies like Flask, REST API, Spring Boot, and Django.
-
-**Database & Cloud:** Versatile in SQL, Oracle, MongoDB, and cloud services like AWS (S3, IAM), emphasizing secure and efficient data management.
+I bring a strong foundation in programming languages including **Java**, **JavaScript**, and **C#**. My frontend development skills are centered around **ReactJS**, allowing me to create dynamic and responsive user interfaces. On the backend, I am proficient in developing scalable solutions using **Spring Boot**. I have experience with cloud services, particularly **AWS**, which supports my ability to design and deploy secure, cloud-based applications. For database management, my skills in **SQL** ensure efficient and effective data handling and storage solutions.
 
 <br>
 💡 I'm currently exploring Data Science and User Experience Design to enhance my ability to deliver impactful and user-centric software solutions. My goal is to harness these skills to uncover insights from data and craft intuitive interfaces that resonate with users worldwide.
