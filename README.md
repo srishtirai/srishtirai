@@ -3,7 +3,7 @@
 
 🔍 Technical Expertise:
 
-I bring a strong foundation in programming languages including **Java**, **JavaScript**, and **C#**. My frontend development skills are centered around **ReactJS**, allowing me to create dynamic and responsive user interfaces. On the backend, I am proficient in developing scalable solutions using **Spring Boot**. I have experience with cloud services, particularly **AWS**, which supports my ability to design and deploy secure, cloud-based applications. For database management, my skills in **SQL** ensure efficient and effective data handling and storage solutions.
+I bring a strong foundation in programming languages including **Java**, **JavaScript**, **Python** and **C#**. My frontend development skills are centered around **ReactJS**, allowing me to create dynamic and responsive user interfaces. On the backend, I am proficient in developing scalable solutions using **Spring Boot**, **Flask**. I have experience with cloud services, particularly **AWS**, which supports my ability to design and deploy secure, cloud-based applications. For database management, my skills in **SQL** ensure efficient and effective data handling and storage solutions.
 
 <br>
 💡 I'm currently exploring Data Science and User Experience Design to enhance my ability to deliver impactful and user-centric software solutions. My goal is to harness these skills to uncover insights from data and craft intuitive interfaces that resonate with users worldwide.
